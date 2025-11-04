@@ -56,7 +56,7 @@
 | **15.4** | Test Results of Sample |
 | **16** | **Acceptance Criteria** |
 | **17** | **Inspection and Testing of Structure** |
-| **SECTION 3** | **GENERAL DESIGN CONSIDERATION** |
+| **SECTION 3** | **[GENERAL DESIGN CONSIDERATION](S_3_IS_456.html)** |
 | **18** | **Bases for Design** |
 | **18.1** | Aim of Design |
 | **18.2** | Methods of Design |
@@ -110,7 +110,7 @@
 | **26.4** | Nominal Cover to Reinforcement |
 | **26.5** | Requirements of Reinforcement for Structural Members |
 | **27** | **Expansion Joints** |
-| **SECTION 4** | **SPECIAL DESIGN REQUIREMENTS FOR STRUCTURAL MEMBERS AND SYSTEMS** |
+| **SECTION 4** | **[SPECIAL DESIGN REQUIREMENTS FOR STRUCTURAL MEMBERS AND SYSTEMS](S_4_IS_456.html)** |
 | **28** | **Concrete Corbels** |
 | **28.1** | General |
 | **28.2** | Design |
